@@ -17,7 +17,7 @@ Instruções
 Faça um clone deste repositório:
 bash
 Copy code
-git clone https://github.com/Luvicitousr/html-css-basico.git
+git clone https://github.com/Luvicitousr/html-css-basico
 Abra o arquivo index.html em seu navegador para visualizar a página.
 
 Abra o projeto em seu editor de código favorito e experimente fazer algumas alterações no HTML e CSS para personalizar a página.
