@@ -1,0 +1,107 @@
+/* Reset básico */
+html,
+body,
+div,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+code,
+del,
+dfn,
+em,
+img,
+q,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font-weight: normal;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+/* Estilos para a tabela */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+}
+
+/* Estilos para as células da tabela */
+td,
+th {
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #e0e0e0;
+}
+
+.preco {
+    font-weight: bold;
+}
+
+.preco-total {
+    font-weight: bold;
+    font-size: 70px;
+}
+
+.imagens {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    padding: 10px;
+    /* Espaçamento interno para melhorar a usabilidade */
+    border: 2px solid #00497B;
+    /* Borda personalizada */
+}
+
+a,
+a img {
+    border-radius: 8px;
+    /* Cantos arredondados */
+}
+
+.p-padrao {
+    background-color: #F5F5F5;
+    margin: 40px;
+    padding: 20px;
+}
+
+.p-destacado {
+    background-color: #F0CCE2;
+    font-weight: bold;
+    border: 2px solid #00497B;
+    margin: 0 40px 40px 40px;
+    padding: 20px;
+}
